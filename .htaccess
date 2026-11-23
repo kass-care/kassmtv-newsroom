@@ -1,0 +1,2 @@
+# KASS-mtv: keep the Git folder private (this theme is updated from GitHub).
+RedirectMatch 404 /\.git
