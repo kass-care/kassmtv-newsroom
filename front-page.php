@@ -111,6 +111,13 @@ $kassmtv_yt    = kassmtv_option( 'youtube' );
 	</section>
 <?php endif; ?>
 
+<?php $kassmtv_wa_cta = kassmtv_whatsapp_cta( 'home' ); ?>
+<?php if ( $kassmtv_wa_cta ) : ?>
+	<div class="k-light k-wa-row">
+		<div class="k-container"><?php echo $kassmtv_wa_cta; // phpcs:ignore WordPress.Security.EscapeOutput -- escaped inside. ?></div>
+	</div>
+<?php endif; ?>
+
 <?php $kassmtv_feed_ad = kassmtv_ad( 'feed' ); ?>
 <?php if ( $kassmtv_feed_ad ) : ?>
 	<div class="k-light k-ad-row">

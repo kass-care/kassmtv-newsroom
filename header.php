@@ -39,6 +39,9 @@ $kassmtv_watch    = is_front_page() ? '#watch' : home_url( '/#watch' );
 				<a class="k-topbar-link" href="<?php echo esc_url( get_permalink( $kassmtv_tip_page ) ); ?>"><?php esc_html_e( 'Send a tip', 'kassmtv' ); ?></a>
 			<?php endif; ?>
 			<a class="k-topbar-link" href="<?php echo esc_url( is_front_page() ? '#newsletter' : home_url( '/#newsletter' ) ); ?>"><?php esc_html_e( 'Newsletter', 'kassmtv' ); ?></a>
+			<?php if ( kassmtv_option( 'whatsapp' ) ) : ?>
+				<a class="k-topbar-link k-topbar-wa" href="<?php echo esc_url( kassmtv_option( 'whatsapp' ) ); ?>" target="_blank" rel="noopener"><?php esc_html_e( 'WhatsApp', 'kassmtv' ); ?></a>
+			<?php endif; ?>
 			<?php if ( kassmtv_advertise_url() ) : ?>
 				<a class="k-topbar-link k-topbar-ad" href="<?php echo esc_url( kassmtv_advertise_url() ); ?>"><?php esc_html_e( 'Advertise', 'kassmtv' ); ?></a>
 			<?php endif; ?>

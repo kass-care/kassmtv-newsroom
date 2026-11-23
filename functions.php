@@ -9,7 +9,7 @@ if ( ! defined( 'ABSPATH' ) ) {
 	exit;
 }
 
-define( 'KASSMTV_VERSION', '1.4.0' );
+define( 'KASSMTV_VERSION', '1.4.1' );
 
 require_once __DIR__ . '/inc/forms.php';
 require_once __DIR__ . '/inc/newsroom-pages.php';
@@ -138,7 +138,7 @@ function kassmtv_defaults() {
 		'instagram'     => '',
 		'linkedin'      => '',
 		'x'             => '',
-		'whatsapp'      => '',
+		'whatsapp'      => 'https://whatsapp.com/channel/0029VbDnjBmDeONBd3gBwJ2t',
 		'showreel'      => '',
 		'building_text' => '',
 		'youtube_id'    => 'UCzQkI8zNGjQzC75lG9kIHjA',
@@ -331,6 +331,7 @@ function kassmtv_social_links() {
 		'youtube'   => array( 'YouTube', '<rect x="2" y="5" width="20" height="14" rx="4"/><path d="M10 9l5 3-5 3z"/>' ),
 		'linkedin'  => array( 'LinkedIn', '<path d="M16 8a6 6 0 0 1 6 6v7h-4v-7a2 2 0 0 0-4 0v7h-4v-7a6 6 0 0 1 6-6z"/><rect x="2" y="9" width="4" height="12"/><circle cx="4" cy="4" r="2"/>' ),
 		'x'         => array( 'X', '<path d="M4 4l16 16M20 4L4 20"/>' ),
+		'whatsapp'  => array( 'WhatsApp channel', '<path d="M3 21l1.7-5A8.5 8.5 0 1 1 8 19.4z"/><path d="M9 9.5c.3 1.6 1.9 3.6 3.6 4.3l1.2-1.1 2 1v1.2c-3.2.8-7.3-3.3-7-6.6h1.3l.8 1.9z"/>' ),
 	);
 
 	$html = '';
@@ -920,4 +921,24 @@ function kassmtv_advertise_url() {
 	$page = function_exists( 'kassmtv_advertise_page' ) ? kassmtv_advertise_page() : null;
 
 	return $page ? get_permalink( $page ) : '';
+}
+
+/**
+ * Green "Follow us on WhatsApp" bar (story end, homepage). '' when no channel link.
+ */
+function kassmtv_whatsapp_cta( $where = 'story' ) {
+	$url = kassmtv_option( 'whatsapp' );
+
+	if ( ! $url ) {
+		return '';
+	}
+
+	return sprintf(
+		'<a class="k-wa-cta k-wa-cta-%1$s" href="%2$s" target="_blank" rel="noopener"><span class="k-wa-cta-icon" aria-hidden="true"><svg width="26" height="26" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round"><path d="M3 21l1.7-5A8.5 8.5 0 1 1 8 19.4z"/><path d="M9 9.5c.3 1.6 1.9 3.6 3.6 4.3l1.2-1.1 2 1v1.2c-3.2.8-7.3-3.3-7-6.6h1.3l.8 1.9z"/></svg></span><span class="k-wa-cta-text"><strong>%3$s</strong><span>%4$s</span></span><span class="k-wa-cta-btn">%5$s</span></a>',
+		esc_attr( $where ),
+		esc_url( $url ),
+		esc_html__( 'Get KASS-mtv news on WhatsApp', 'kassmtv' ),
+		esc_html__( 'Kenya, the diaspora, world news and sports — free, every day.', 'kassmtv' ),
+		esc_html__( 'Follow the channel', 'kassmtv' )
+	);
 }

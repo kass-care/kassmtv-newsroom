@@ -4,7 +4,7 @@ Theme URI: https://kassmtvusa.com
 Author: KASS MTV USA
 Author URI: https://kassmtvusa.com
 Description: The KASS-mtv Diaspora News theme. News first, with ad spaces (your own ads and Google AdSense), the KASS platforms, services, video and contact — built for phones and computers.
-Version: 1.4.0
+Version: 1.4.1
 Requires at least: 6.0
 Tested up to: 6.8
 Requires PHP: 7.4
@@ -3880,4 +3880,94 @@ a.k-ad-item:hover .k-ad-img {
 
 .k-adv-choose .k-check span {
 	color: var(--k-dark);
+}
+
+/* ---------- 1.4.1: WhatsApp channel ---------- */
+.k-topbar-wa {
+	color: #4ade80;
+	font-weight: 800;
+}
+
+.k-wa-cta {
+	display: flex;
+	align-items: center;
+	gap: 16px;
+	margin: 32px 0;
+	padding: 18px 22px;
+	border-radius: 18px;
+	background: #075e54;
+	color: #ffffff;
+	font-family: var(--k-body);
+	text-decoration: none;
+}
+
+.k-light .k-wa-cta:hover,
+.k-wa-cta:hover {
+	background: #064e46;
+	color: #ffffff;
+}
+
+.k-wa-cta-icon {
+	display: inline-flex;
+	flex: 0 0 auto;
+	align-items: center;
+	justify-content: center;
+	width: 48px;
+	height: 48px;
+	border-radius: 50%;
+	background: #25d366;
+	color: #ffffff;
+}
+
+.k-wa-cta-text {
+	display: flex;
+	flex: 1 1 auto;
+	flex-direction: column;
+	gap: 2px;
+	min-width: 0;
+	font-size: 15px;
+	line-height: 1.4;
+}
+
+.k-wa-cta-text strong {
+	font-size: 18px;
+}
+
+.k-wa-cta-text span {
+	color: #d1fae5;
+}
+
+.k-wa-cta-btn {
+	flex: 0 0 auto;
+	padding: 11px 18px;
+	border-radius: 999px;
+	background: #25d366;
+	color: #04281f;
+	font-size: 15px;
+	font-weight: 800;
+	white-space: nowrap;
+}
+
+.k-wa-row {
+	padding: 0 0 8px;
+}
+
+.k-wa-row .k-wa-cta {
+	margin: 0 0 40px;
+}
+
+@media (max-width: 640px) {
+	.k-wa-cta {
+		flex-wrap: wrap;
+		padding: 18px;
+	}
+
+	.k-wa-cta-btn {
+		width: 100%;
+		text-align: center;
+	}
+
+	.k-topbar-tag {
+		display: none;
+	}
 }

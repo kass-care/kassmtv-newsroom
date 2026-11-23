@@ -135,6 +135,8 @@ while ( have_posts() ) :
 							</div>
 						<?php endif; ?>
 
+						<?php echo kassmtv_whatsapp_cta( 'story' ); // phpcs:ignore WordPress.Security.EscapeOutput -- escaped inside. ?>
+
 						<?php echo kassmtv_newsletter_box( 'story', true ); // phpcs:ignore WordPress.Security.EscapeOutput -- escaped inside. ?>
 
 						<?php
