@@ -13,6 +13,12 @@ in WordPress (ON / drafts only / OFF).
    the story at the top of `feed.json`.
 3. Commit and push to `main`.
 
+## Daily picture for the WhatsApp channel
+
+`python3 tools/make_daily.py --out /tmp/daily.png` draws "Today's top stories"
+(up to 4 headlines from today's stories in `feed.json`) on one 1080 × 1350 picture.
+Post it in the WhatsApp channel with the story links as the caption.
+
 ## Rules
 
 - Stories are original writing. No copied sentences; at most one short quote
