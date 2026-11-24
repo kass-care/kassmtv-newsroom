@@ -379,8 +379,8 @@ function kassmtv_platforms() {
 			'name'  => 'Kass Church',
 			'short' => __( 'Members, giving, finances', 'kassmtv' ),
 			'text'  => __( 'Church administration made simple: members, giving and finances, all in one secure system.', 'kassmtv' ),
-			'link'  => '',
-			'cta'   => '',
+			'link'  => 'https://church.kasscare.health/',
+			'cta'   => __( 'Open Kass Church', 'kassmtv' ),
 			'icon'  => '<path d="M12 2v6M9 5h6"/><path d="M5 22V12l7-4 7 4v10"/><path d="M10 22v-5h4v5"/>',
 		),
 		array(
@@ -395,8 +395,8 @@ function kassmtv_platforms() {
 			'name'  => 'KASS SHIFT',
 			'short' => __( 'Post & pick up shifts', 'kassmtv' ),
 			'text'  => __( 'Shift work made simple: employers post shifts, workers pick them up, and employers approve and pay in one place.', 'kassmtv' ),
-			'link'  => '',
-			'cta'   => '',
+			'link'  => 'https://shift.kassmtvusa.com/',
+			'cta'   => __( 'Open KASS SHIFT', 'kassmtv' ),
 			'icon'  => '<circle cx="12" cy="13" r="8"/><path d="M12 9v4l2.5 2.5"/><path d="M9 2h6"/>',
 		),
 	);
