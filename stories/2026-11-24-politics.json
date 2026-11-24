@@ -1,0 +1,70 @@
+{
+  "date": "2026-11-24T08:00:00Z",
+  "title": "IEBC's Smartmatic deal ends today as opposition sets January deadline and 94 parties are told to fix nomination rules",
+  "slug": "iebc-smartmatic-contract-ends-opposition-january-deadline",
+  "category": "Politics",
+  "tags": [
+    "IEBC",
+    "Smartmatic",
+    "Rigathi Gachagua",
+    "Erastus Ethekon",
+    "2027 election"
+  ],
+  "key_points": [
+    "The IEBC's 2021 support contract with Smartmatic, its election technology supplier, ends today, November 24.",
+    "Gachagua has given the IEBC until January to answer opposition demands, or face nationwide protests.",
+    "The IEBC says court cases have slowed its buying of new election technology.",
+    "Only 11 of 105 parties passed the IEBC's first check of nomination rules; 94, including UDA and ODM, must fix theirs."
+  ],
+  "content": "<p>NAIROBI — Kenya's election body, the Independent Electoral and Boundaries Commission (IEBC), reaches an important date today, Tuesday, November 24. Its support contract with Smartmatic, the company that supplies its election technology, ends today, according to People Daily and the Nation.</p>\n<p>Smartmatic's equipment and systems were used in the 2022 General Election. The next General Election is on August 10, 2027.</p>\n<h2>Why the date matters</h2>\n<p>The IEBC uses this technology to register voters and identify them. People Daily said the end of the contract raises questions about technical support, software licences and security updates.</p>\n<p>Opposition leader Rigathi Gachagua, the former Deputy President who now leads the Democracy for the Citizens Party (DCP), has warned that a new system could take five to six months to buy. He says this could disrupt voter registration, Capital FM reported.</p>\n<p>The IEBC has not said publicly what will happen after today. The Nation reported that the High Court has certified as urgent a case that seeks to stop the IEBC from giving a Sh17.6 billion election technology tender for 2027 to Smartmatic.</p>\n<h2>What the IEBC says</h2>\n<p>At a meeting with political parties on Thursday, November 19, IEBC Commissioner Anne Nderitu said court cases had slowed the buying of election technology and ballot papers, even though tenders had already been advertised, Dawan Africa reported. She said every constituency has at least four registration kits, and that the commission has the time and skills to run a credible election.</p>\n<h2>Opposition walkout and January deadline</h2>\n<p>At that same meeting, Gachagua, Wiper leader Kalonzo Musyoka and Nairobi Senator Edwin Sifuna led opposition leaders out of the room. They said the agenda left out their main concerns, Capital FM and The Standard reported.</p>\n<p>Their main demands are:</p>\n<ul>\n<li>clean the voter register by removing dead and ineligible voters;</li>\n<li>make constituency results for president final, and end the national tallying centre at Bomas of Kenya;</li>\n<li>allow electronic voting for Kenyans living abroad;</li>\n<li>livestream voting, counting and the announcement of results.</li>\n</ul>\n<p>Speaking at a church in Runyenjes, Embu County, on Sunday, Gachagua gave the IEBC until January to respond. He warned of nationwide protests if it does not, Dawan Africa reported. He also asked the IEBC to say when it will audit the voter register.</p>\n<h2>The government side</h2>\n<p>Interior Cabinet Secretary Kipchumba Murkomen accused the opposition of resisting open tallying of presidential votes. He said the final count must happen at the national tallying centre with candidates' agents present, Capital FM reported. Senate Speaker Moses Wetang'ula urged the IEBC not to be intimidated by political groups.</p>\n<h2>94 parties must fix their nomination rules</h2>\n<p>In a separate step, the IEBC said on Friday, November 20, that it had checked the nomination rules of 105 parties. Only 11 passed. The other 94 must make changes, Citizen Digital and Capital FM reported.</p>\n<p>The parties that passed include Wiper, Jubilee, Safina and Babu Owino's The Mwananchi Party. Those that must make changes include UDA, ODM, KANU and the Democratic Party, according to Citizen Digital. Kenya Today reported that Gachagua's DCP is also on that list.</p>\n<p>The IEBC said parties that failed are not blocked from the 2027 election. Each party has been told what to fix and given a deadline.</p>\n<p><strong>What to watch:</strong> how the IEBC keeps voter registration running after today, and when the court rules on the technology tender.</p>",
+  "sources": [
+    {
+      "outlet": "People Daily",
+      "title": "IEBC Smartmatic contract expiry: What it means for voter registration and Kenya's 2027 elections",
+      "url": "https://peopledaily.digital/insights/iebc-smartmatic-contract-expiry-what-it-means-for-voter-registration-and-kenyas-2027-elections",
+      "date": "2026-11-23"
+    },
+    {
+      "outlet": "Nation",
+      "title": "IEBC sued over Sh17.6bn Smartmatic voting equipment tender",
+      "url": "https://nation.africa/kenya/news/iebc-sued-sh17-6bn-smartmatic-voting-equipment-tender-5681962",
+      "date": "2026-11-24"
+    },
+    {
+      "outlet": "Dawan Africa",
+      "title": "Gachagua Gives IEBC January Deadline Over Voter Register Audit, Warns of Protests",
+      "url": "https://www.dawan.africa/news/gachagua-gives-iebc-january-deadline-over-voter-register-audit-warns-of-protests",
+      "date": "2026-11-22"
+    },
+    {
+      "outlet": "Capital FM",
+      "title": "Opposition leaders walk out of IEBC talks over disputed agenda",
+      "url": "https://capitalfm.africa/opposition-leaders-walk-out-of-iebc-talks-over-disputed-agenda/",
+      "date": "2026-11-19"
+    },
+    {
+      "outlet": "The Standard",
+      "title": "Kalonzo and Gachagua storm out of IEBC talks over poll preparedness",
+      "url": "https://www.standardmedia.co.ke/politics/article/2001562639/kalonzo-and-gachagua-storm-out-of-iebc-talks-over-poll-preparedness",
+      "date": "2026-11-19"
+    },
+    {
+      "outlet": "Citizen Digital",
+      "title": "IEBC clears only 11 parties in first review of nomination rules for 2027 elections",
+      "url": "https://citizen.digital/article/iebc-clears-only-11-parties-in-first-review-of-nomination-rules-for-2027-elections-n394292",
+      "date": "2026-11-20"
+    },
+    {
+      "outlet": "Capital FM",
+      "title": "UDA, ODM, DCP among 94 Parties that fail IEBC nomination rules test as only 11 qualify",
+      "url": "https://capitalfm.africa/uda-odm-dcp-among-94-parties-that-fail-iebc-nomination-rules-test-as-only-11-qualify/",
+      "date": "2026-11-20"
+    },
+    {
+      "outlet": "Kenya Today",
+      "title": "IEBC flags 94 parties, including UDA and ODM, for non-compliant nomination rules ahead of 2027 vote",
+      "url": "https://kenya-today.com/report-iebc-flags-94-parties-including-uda-and-odm-for-noncompliant-nomination-rules-ahead-of-2027-vote-30798/",
+      "date": "2026-11-20"
+    }
+  ]
+}

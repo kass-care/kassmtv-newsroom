@@ -2,6 +2,250 @@
   "version": 1,
   "stories": [
     {
+      "date": "2026-11-24T08:15:00Z",
+      "title": "Sports roundup: FKF hits back at McCarthy, Brentford thrash Everton, US and UK to host Women's World Cups",
+      "slug": "sports-roundup-fkf-mccarthy-brentford-everton-womens-world-cup",
+      "category": "Sports",
+      "tags": [
+        "Harambee Stars",
+        "Benni McCarthy",
+        "FKF",
+        "Brentford",
+        "Women's World Cup"
+      ],
+      "key_points": [
+        "FKF says it never picks the Harambee Stars squad and that McCarthy's November pay was made early.",
+        "Brentford beat Everton 4-0 on Monday night to close the Premier League round.",
+        "FIFA gave the 2031 Women's World Cup to the US, Mexico, Costa Rica and Jamaica, and 2035 to the UK, Anadolu reported.",
+        "Big game on Sunday: Arsenal v Manchester City."
+      ],
+      "content": "<p>Here is the latest sports news, starting at home.</p>\n<h2>Harambee Stars: FKF and McCarthy row grows</h2>\n<p>The Football Kenya Federation (FKF) has rejected claims that its officials interfere in choosing the Harambee Stars squad, Dawan Africa reported. FKF Head of Communications Jeff Kinyanjui said on X that only the coach and his technical staff pick the players.</p>\n<p>The row started after Kenya lost 2-1 to South Africa at Nyayo Stadium on November 17 in an AFCON qualifier. Coach Benni McCarthy then complained about hotels, meals, transport and late payments to players, The Star reported. He said the players came close to a strike before they were paid.</p>\n<p>Kinyanjui said on local radio that McCarthy was trying to shift attention from his comments after the match. He said McCarthy's November salary was paid in advance, and that the government, not FKF, pays the coach. Dawan Africa noted that in March 2025, FKF President Hussein Mohamed said the federation would pay McCarthy, according to K24 Digital.</p>\n<p>McCarthy apologised on November 19 for his reaction to online criticism after the loss. Kenya is third in its group with two points from four games. The team is already in AFCON 2027 as a co-host with Uganda and Tanzania, and FIFA ranks Kenya 115th in the world, Kenya Today reported.</p>\n<h2>Premier League: Brentford 4-0 Everton</h2>\n<p>Brentford beat Everton 4-0 at home on Monday night to finish the weekend's games.</p>\n<p>The weekend's other results were:</p>\n<ul>\n<li>Liverpool 4-0 Manchester United</li>\n<li>Newcastle 2-2 Arsenal</li>\n<li>Chelsea 1-4 Leeds</li>\n<li>Manchester City 1-1 Fulham</li>\n<li>Tottenham 2-0 Ipswich</li>\n<li>Coventry 3-2 Crystal Palace</li>\n<li>Bournemouth 2-0 Nottingham Forest</li>\n<li>Aston Villa 0-0 Sunderland</li>\n<li>Hull 2-0 Brighton</li>\n</ul>\n<p><strong>Coming up:</strong> Nottingham Forest v Chelsea on Friday, November 27, and Arsenal v Manchester City on Sunday, November 29.</p>\n<h2>Women's World Cup hosts chosen</h2>\n<p>FIFA has given the 2031 Women's World Cup to the United States, Mexico, Costa Rica and Jamaica. It gave the 2035 tournament to the United Kingdom, Anadolu Agency reported. Both bids had no rivals, and the vote was held at an online FIFA meeting.</p>\n<p>The 2031 tournament will be the first with 48 teams, up from 32, and will have 104 matches. ESPN reported that Jamaica's matches will be the first senior World Cup games played in the Caribbean.</p>\n<p><strong>Why it matters:</strong> more teams means more places for African women's teams, including Kenya's Harambee Starlets.</p>\n<h2>Also in sport</h2>\n<ul>\n<li>Spain's LaLiga said a cyberattack between November 14 and 16 exposed personal details of fans registered on its digital services. It says the attack has been stopped.</li>\n</ul>",
+      "sources": [
+        {
+          "outlet": "Dawan Africa",
+          "title": "FKF Denies Interfering in Harambee Stars Selection as Row With McCarthy Grows",
+          "url": "https://dawan.africa/news/fkf-denies-interfering-in-harambee-stars-selection-as-row-with-mccarthy-grows",
+          "date": "2026-11-22"
+        },
+        {
+          "outlet": "The Star",
+          "title": "McCarthy speaks out on challenges facing Harambee Stars",
+          "url": "https://www.the-star.co.ke/news/2026-11-20-mccarthy-speaks-out-on-challenges-facing-harambee-stars",
+          "date": "2026-11-20"
+        },
+        {
+          "outlet": "Nation",
+          "title": "Harambee Stars fall to Bafana Bafana in hard fought contest",
+          "url": "https://nation.africa/kenya/sports/football/harambee-stars-fall-to-bafana-bafana-in-hard-fought-contest-5674466",
+          "date": "2026-11-17"
+        },
+        {
+          "outlet": "Kenya Today",
+          "title": "Harambee Stars slip to 115th in FIFA rankings after AFCON qualifier double-header",
+          "url": "https://kenya-today.com/report-harambee-stars-slip-to-115th-in-fifa-rankings-after-afcon-qualifier-doubleheader-29610/",
+          "date": "2026-11-18"
+        },
+        {
+          "outlet": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 24, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240",
+          "date": "2026-11-24"
+        },
+        {
+          "outlet": "ESPN",
+          "title": "U.S. Soccer announces co-hosts for 2031 Women's World Cup bid",
+          "url": "https://global.espn.com/football/story/_/id/46662891/usa-soccer-announces-cohosts-2031-world-cup-bid",
+          "date": "2025-10-20"
+        },
+        {
+          "outlet": "TSN",
+          "title": "FIFA releases evaluation reports for the 2031 and 2035 Women's World Cup",
+          "url": "https://www.tsn.ca/soccer/article/fifa-releases-evaluation-reports-for-the-2031-and-2035-womens-world-cup/",
+          "date": "2026-11-11"
+        }
+      ],
+      "id": "2026-11-24-sports-roundup-fkf-hits-back-at-mccarthy-brentford",
+      "image": "images/2026-11-24-sports-roundup-fkf-hits-back-at-mccarthy-brentford.jpg",
+      "image_alt": "KASS-mtv news graphic: Sports roundup: FKF hits back at McCarthy, Brentford thrash Everton, US and UK to host Women's World Cups"
+    },
+    {
+      "date": "2026-11-24T08:10:00Z",
+      "title": "World roundup: Iran says 3 tankers hit mines in Hormuz, Gaza strike kills 3, Russia and Ukraine clash at the UN",
+      "slug": "world-roundup-hormuz-tankers-gaza-russia-ukraine-un",
+      "category": "News",
+      "tags": [
+        "Strait of Hormuz",
+        "Gaza",
+        "Ukraine",
+        "United Nations",
+        "Nvidia"
+      ],
+      "key_points": [
+        "Iran's Revolutionary Guard says mines set three oil tankers on fire in the Strait of Hormuz; this is not independently confirmed.",
+        "An Israeli drone strike killed three Palestinians at a police post in Khan Younis, a Gaza hospital source said.",
+        "Russia ruled out reviving a Black Sea grain deal at the UN; the EU announced new sanctions on Russia.",
+        "Nvidia brought back Jensen Huang as CEO."
+      ],
+      "content": "<p>Here are the biggest world stories of the last day, in short and simple form.</p>\n<h2>1. Iran says three tankers hit mines in the Strait of Hormuz</h2>\n<p>Iran's Islamic Revolutionary Guard Corps (IRGC) Navy said late on Monday that three oil tankers struck mines in the Strait of Hormuz and caught fire, Anadolu Agency reported. The IRGC also said US air cover did not stop the incidents, and warned ships not to use what it calls \"unauthorized routes.\"</p>\n<p>These are Iran's claims and have not been independently confirmed. Iran closed the strait in July after US strikes resumed, and it has reported similar tanker fires several times since October, Al Jazeera and other outlets reported.</p>\n<p><strong>Why it matters for Kenya:</strong> a large share of the world's oil passes through this strait. Trouble there can push up fuel prices, including in Kenya.</p>\n<h2>2. Gaza: drone strike and winter floods</h2>\n<p>An Israeli drone strike killed three Palestinians and wounded five at a police post in Al-Mawasi, Khan Younis, early on Tuesday, a medical source at Nasser Hospital said, according to Anadolu. Gaza's Health Ministry says 1,675 Palestinians have been killed since the ceasefire began on October 10, 2025.</p>\n<p>US Senator Brian Schatz has asked Israel to let in winter supplies and building materials after heavy rain flooded more than 70,000 tents. Israel's aid agency, COGAT, has said it delivered tens of thousands of tents before the storms, Latin Times reported.</p>\n<h2>3. Russia and Ukraine clash at the UN</h2>\n<p>At the UN Security Council on Monday, Russia ruled out bringing back a Black Sea grain deal. It accused Ukraine of attacking more than 200 commercial ships since July, Anadolu reported. Ukraine's President Volodymyr Zelenskyy warned of new Russian strikes and asked allies for more Patriot air-defence missiles.</p>\n<p>The President of the European Commission announced a new package of sanctions on Russia. It targets banks and crypto platforms and Russia's role in European sports and cultural events.</p>\n<p><strong>Why it matters for Africa:</strong> the Black Sea is a major route for wheat and fertiliser bought by African countries.</p>\n<h2>4. Nvidia brings back its CEO</h2>\n<p>Nvidia, the world's leading maker of AI chips, has reinstated Jensen Huang as president and chief executive. The company said talks with senior US officials led its board to decide his return poses no national security risk, Anadolu reported.</p>\n<h2>5. Also today</h2>\n<ul>\n<li>South Korea sent fighter jets after Russian military planes entered its air defence zone, Yonhap reported.</li>\n<li>Libya's leaders warned that the country risks being dragged into the Russia–Ukraine and Sudan conflicts.</li>\n<li>Zambia and Türkiye agreed to work together on water projects, investment and climate resilience.</li>\n</ul>",
+      "sources": [
+        {
+          "outlet": "Anadolu Agency",
+          "title": "Morning Briefing: Nov. 24, 2026",
+          "url": "https://www.aa.com.tr/en/world/morning-briefing-nov-24-2026/4135240",
+          "date": "2026-11-24"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "title": "Iran says two tankers catch fire after hitting mines in Strait of Hormuz",
+          "url": "https://www.aljazeera.com/news/2026/10/18/iran-says-two-tankers-catch-fire-after-hitting-mines-in-strait-of-hormuz",
+          "date": "2026-10-18"
+        },
+        {
+          "outlet": "Middle East Monitor",
+          "title": "US Sen. Schatz urges Israel to allow winter supplies into Gaza",
+          "url": "https://www.middleeastmonitor.com/?p=877640",
+          "date": "2026-11"
+        },
+        {
+          "outlet": "Latin Times",
+          "title": "Gaza winter storm floods displacement tents",
+          "url": "https://www.latintimes.com/gaza-winter-storm-floods-displacement-tents-601032",
+          "date": "2026-11"
+        },
+        {
+          "outlet": "10 Things Global News",
+          "title": "10 Things Global News - 24th November 2026",
+          "url": "https://www.10things.news/p/10-things-global-news-24th-november-b13",
+          "date": "2026-11-24"
+        }
+      ],
+      "id": "2026-11-24-world-roundup-iran-says-3-tankers-hit-mines",
+      "image": "images/2026-11-24-world-roundup-iran-says-3-tankers-hit-mines.jpg",
+      "image_alt": "KASS-mtv news graphic: World roundup: Iran says 3 tankers hit mines in Hormuz, Gaza strike kills 3, Russia and Ukraine clash at the UN"
+    },
+    {
+      "date": "2026-11-24T08:05:00Z",
+      "title": "Sifuna's US tour moves to Maryland and DC after packed Allentown town hall",
+      "slug": "sifuna-us-tour-maryland-dc-after-allentown-town-hall",
+      "category": "Diaspora",
+      "tags": [
+        "Edwin Sifuna",
+        "Maryland",
+        "Washington DC",
+        "Allentown",
+        "Kenyans in the US"
+      ],
+      "key_points": [
+        "The Allentown, Pennsylvania town hall on Sunday was filled to capacity, Mwakilishi and K24 reported.",
+        "Sifuna opened the movement's first overseas office in Hackettstown, New Jersey.",
+        "Today (Nov 24) he has a policy meeting and a luncheon with Maryland elected officials; Wednesday ends with a town hall.",
+        "Next stops: Dallas and Houston, then Seattle and California, ending December 7."
+      ],
+      "content": "<p>WASHINGTON, DC — Nairobi Senator Edwin Sifuna's tour of the United States has reached Maryland and the Washington DC area, after a busy first weekend in New Jersey and Pennsylvania.</p>\n<p>Sifuna leads the Linda Mwananchi Movement (LMM) and wants to run for president in Kenya's August 2027 election. His trip runs from November 21 to December 7, according to Mwakilishi, a news site for Kenyans in the US.</p>\n<h2>What happened at the weekend</h2>\n<p>In our Sunday story, we promised to report what happened at the Allentown town hall. Here it is.</p>\n<ul>\n<li><strong>New Jersey:</strong> supporters met him at Newark airport with songs, dances and banners. He opened the movement's first office outside Kenya, in Hackettstown, New Jersey. Mwakilishi said the office will run volunteer work, voter outreach and fundraising on the East Coast.</li>\n<li><strong>Pennsylvania:</strong> on Sunday, November 22, he went to a morning service at Grace Community Church in Allentown. In the afternoon, he spoke at a town hall at The Palace Center. Mwakilishi said the hall was full, with Kenyans from Pennsylvania, New York and New Jersey. K24 Digital said a video Sifuna shared showed every seat taken.</li>\n</ul>\n<p>At the town hall, Sifuna answered critics who had doubted his support in the region. He talked about governance, economic accountability and the constitution, Mwakilishi reported.</p>\n<h2>This week in Maryland and DC</h2>\n<ul>\n<li><strong>Monday, Nov 23:</strong> business community dinner in Maryland.</li>\n<li><strong>Today, Tuesday, Nov 24:</strong> an East Africa politics and policy meeting, then a luncheon with Afri Thrive and Maryland elected officials.</li>\n<li><strong>Wednesday, Nov 25:</strong> a brunch with women from the DC area, a talk with the 6.25 Movement and Gen Z Movement, and an evening town hall.</li>\n</ul>\n<h2>The rest of the tour</h2>\n<ul>\n<li><strong>Texas:</strong> Thanksgiving dinner with families in Dallas on November 27; women's meeting and town hall in Houston on November 29.</li>\n<li><strong>Washington State:</strong> December 3–4, church service in Federal Way and a gala dinner in Renton.</li>\n<li><strong>California:</strong> December 5, town hall in San Francisco and a gala in Oakland; December 7, closing dinner with Kenyan professionals in Silicon Valley.</li>\n</ul>\n<p>Dates and venues can change, so check with local organisers before you travel.</p>\n<h2>Why it matters</h2>\n<p>Kenyans abroad send home billions of shillings every year. But very few vote: fewer than 600 Kenyans living in the US were registered to vote in 2022, Mwakilishi reported. Analysts say tours like this one matter mostly for raising campaign money and shaping debate at home.</p>\n<p>Back in Kenya, the opposition is asking the electoral commission to allow electronic voting for Kenyans abroad. That could change how much the diaspora vote counts in the future.</p>\n<p>Other leaders, including Rigathi Gachagua and David Maraga, have made similar trips to the US. The Nation noted that these tours include a large fundraising part.</p>",
+      "sources": [
+        {
+          "outlet": "Mwakilishi",
+          "title": "Sifuna's U.S. Diaspora Tour Gains Momentum Following High-Energy Stops in New Jersey and Pennsylvania",
+          "url": "https://mwakilishi.com/news/2026-11-23/sifunas-us-diaspora-tour-gains-momentum-following-high-energy-stops-in-new-jersey",
+          "date": "2026-11-23"
+        },
+        {
+          "outlet": "K24 Digital",
+          "title": "Kenyans in America send Sifuna into excitement as hundreds fill venue during his Pennsylvania event",
+          "url": "https://k24.digital/entertainment/celebrity/kenyans-in-america-send-sifuna-into-excitement-as-hundreds-fill-venue-during-his-pennsylvania-event",
+          "date": "2026-11-23"
+        },
+        {
+          "outlet": "Nation",
+          "title": "Kenyans in US await Sifuna's arrival",
+          "url": "https://nation.africa/kenya/news/politics/kenyans-in-us-await-sifuna-s-arrival-5678984",
+          "date": "2026-11-21"
+        },
+        {
+          "outlet": "Capital FM",
+          "title": "Opposition leaders walk out of IEBC talks over disputed agenda",
+          "url": "https://capitalfm.africa/opposition-leaders-walk-out-of-iebc-talks-over-disputed-agenda/",
+          "date": "2026-11-19"
+        }
+      ],
+      "id": "2026-11-24-sifunas-us-tour-moves-to-maryland-and-dc",
+      "image": "images/2026-11-24-sifunas-us-tour-moves-to-maryland-and-dc.jpg",
+      "image_alt": "KASS-mtv news graphic: Sifuna's US tour moves to Maryland and DC after packed Allentown town hall"
+    },
+    {
+      "date": "2026-11-24T08:00:00Z",
+      "title": "IEBC's Smartmatic deal ends today as opposition sets January deadline and 94 parties are told to fix nomination rules",
+      "slug": "iebc-smartmatic-contract-ends-opposition-january-deadline",
+      "category": "Politics",
+      "tags": [
+        "IEBC",
+        "Smartmatic",
+        "Rigathi Gachagua",
+        "Erastus Ethekon",
+        "2027 election"
+      ],
+      "key_points": [
+        "The IEBC's 2021 support contract with Smartmatic, its election technology supplier, ends today, November 24.",
+        "Gachagua has given the IEBC until January to answer opposition demands, or face nationwide protests.",
+        "The IEBC says court cases have slowed its buying of new election technology.",
+        "Only 11 of 105 parties passed the IEBC's first check of nomination rules; 94, including UDA and ODM, must fix theirs."
+      ],
+      "content": "<p>NAIROBI — Kenya's election body, the Independent Electoral and Boundaries Commission (IEBC), reaches an important date today, Tuesday, November 24. Its support contract with Smartmatic, the company that supplies its election technology, ends today, according to People Daily and the Nation.</p>\n<p>Smartmatic's equipment and systems were used in the 2022 General Election. The next General Election is on August 10, 2027.</p>\n<h2>Why the date matters</h2>\n<p>The IEBC uses this technology to register voters and identify them. People Daily said the end of the contract raises questions about technical support, software licences and security updates.</p>\n<p>Opposition leader Rigathi Gachagua, the former Deputy President who now leads the Democracy for the Citizens Party (DCP), has warned that a new system could take five to six months to buy. He says this could disrupt voter registration, Capital FM reported.</p>\n<p>The IEBC has not said publicly what will happen after today. The Nation reported that the High Court has certified as urgent a case that seeks to stop the IEBC from giving a Sh17.6 billion election technology tender for 2027 to Smartmatic.</p>\n<h2>What the IEBC says</h2>\n<p>At a meeting with political parties on Thursday, November 19, IEBC Commissioner Anne Nderitu said court cases had slowed the buying of election technology and ballot papers, even though tenders had already been advertised, Dawan Africa reported. She said every constituency has at least four registration kits, and that the commission has the time and skills to run a credible election.</p>\n<h2>Opposition walkout and January deadline</h2>\n<p>At that same meeting, Gachagua, Wiper leader Kalonzo Musyoka and Nairobi Senator Edwin Sifuna led opposition leaders out of the room. They said the agenda left out their main concerns, Capital FM and The Standard reported.</p>\n<p>Their main demands are:</p>\n<ul>\n<li>clean the voter register by removing dead and ineligible voters;</li>\n<li>make constituency results for president final, and end the national tallying centre at Bomas of Kenya;</li>\n<li>allow electronic voting for Kenyans living abroad;</li>\n<li>livestream voting, counting and the announcement of results.</li>\n</ul>\n<p>Speaking at a church in Runyenjes, Embu County, on Sunday, Gachagua gave the IEBC until January to respond. He warned of nationwide protests if it does not, Dawan Africa reported. He also asked the IEBC to say when it will audit the voter register.</p>\n<h2>The government side</h2>\n<p>Interior Cabinet Secretary Kipchumba Murkomen accused the opposition of resisting open tallying of presidential votes. He said the final count must happen at the national tallying centre with candidates' agents present, Capital FM reported. Senate Speaker Moses Wetang'ula urged the IEBC not to be intimidated by political groups.</p>\n<h2>94 parties must fix their nomination rules</h2>\n<p>In a separate step, the IEBC said on Friday, November 20, that it had checked the nomination rules of 105 parties. Only 11 passed. The other 94 must make changes, Citizen Digital and Capital FM reported.</p>\n<p>The parties that passed include Wiper, Jubilee, Safina and Babu Owino's The Mwananchi Party. Those that must make changes include UDA, ODM, KANU and the Democratic Party, according to Citizen Digital. Kenya Today reported that Gachagua's DCP is also on that list.</p>\n<p>The IEBC said parties that failed are not blocked from the 2027 election. Each party has been told what to fix and given a deadline.</p>\n<p><strong>What to watch:</strong> how the IEBC keeps voter registration running after today, and when the court rules on the technology tender.</p>",
+      "sources": [
+        {
+          "outlet": "People Daily",
+          "title": "IEBC Smartmatic contract expiry: What it means for voter registration and Kenya's 2027 elections",
+          "url": "https://peopledaily.digital/insights/iebc-smartmatic-contract-expiry-what-it-means-for-voter-registration-and-kenyas-2027-elections",
+          "date": "2026-11-23"
+        },
+        {
+          "outlet": "Nation",
+          "title": "IEBC sued over Sh17.6bn Smartmatic voting equipment tender",
+          "url": "https://nation.africa/kenya/news/iebc-sued-sh17-6bn-smartmatic-voting-equipment-tender-5681962",
+          "date": "2026-11-24"
+        },
+        {
+          "outlet": "Dawan Africa",
+          "title": "Gachagua Gives IEBC January Deadline Over Voter Register Audit, Warns of Protests",
+          "url": "https://www.dawan.africa/news/gachagua-gives-iebc-january-deadline-over-voter-register-audit-warns-of-protests",
+          "date": "2026-11-22"
+        },
+        {
+          "outlet": "Capital FM",
+          "title": "Opposition leaders walk out of IEBC talks over disputed agenda",
+          "url": "https://capitalfm.africa/opposition-leaders-walk-out-of-iebc-talks-over-disputed-agenda/",
+          "date": "2026-11-19"
+        },
+        {
+          "outlet": "The Standard",
+          "title": "Kalonzo and Gachagua storm out of IEBC talks over poll preparedness",
+          "url": "https://www.standardmedia.co.ke/politics/article/2001562639/kalonzo-and-gachagua-storm-out-of-iebc-talks-over-poll-preparedness",
+          "date": "2026-11-19"
+        },
+        {
+          "outlet": "Citizen Digital",
+          "title": "IEBC clears only 11 parties in first review of nomination rules for 2027 elections",
+          "url": "https://citizen.digital/article/iebc-clears-only-11-parties-in-first-review-of-nomination-rules-for-2027-elections-n394292",
+          "date": "2026-11-20"
+        },
+        {
+          "outlet": "Capital FM",
+          "title": "UDA, ODM, DCP among 94 Parties that fail IEBC nomination rules test as only 11 qualify",
+          "url": "https://capitalfm.africa/uda-odm-dcp-among-94-parties-that-fail-iebc-nomination-rules-test-as-only-11-qualify/",
+          "date": "2026-11-20"
+        },
+        {
+          "outlet": "Kenya Today",
+          "title": "IEBC flags 94 parties, including UDA and ODM, for non-compliant nomination rules ahead of 2027 vote",
+          "url": "https://kenya-today.com/report-iebc-flags-94-parties-including-uda-and-odm-for-noncompliant-nomination-rules-ahead-of-2027-vote-30798/",
+          "date": "2026-11-20"
+        }
+      ],
+      "id": "2026-11-24-iebcs-smartmatic-deal-ends-today-as-opposition-sets",
+      "image": "images/2026-11-24-iebcs-smartmatic-deal-ends-today-as-opposition-sets.jpg",
+      "image_alt": "KASS-mtv news graphic: IEBC's Smartmatic deal ends today as opposition sets January deadline and 94 parties are told to fix nomination rules"
+    },
+    {
       "date": "2026-11-22T18:15:00Z",
       "title": "Sports roundup: CAF makes Kiswahili an official language, Liverpool thrash 10-man Man United",
       "slug": "sports-roundup-caf-kiswahili-liverpool-man-united",
@@ -357,5 +601,5 @@
       "image_alt": "KASS-mtv news graphic: Ruto starts 8-day Western Kenya tour as poll shows Sifuna ahead in the region"
     }
   ],
-  "updated": "2026-11-23T00:24:28Z"
+  "updated": "2026-11-24T07:34:14Z"
 }
