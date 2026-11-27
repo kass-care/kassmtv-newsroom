@@ -2,6 +2,250 @@
   "version": 1,
   "stories": [
     {
+      "title": "Sports roundup: Gor Mahia hit Mombasa United for three, Palace stun Real Sociedad, Osman shines for Brighton",
+      "slug": "sports-roundup-gor-mahia-palace-brighton-osman",
+      "category": "Sports",
+      "tags": [
+        "Gor Mahia",
+        "KCB FC",
+        "Victor Wanyama",
+        "Crystal Palace",
+        "Brighton"
+      ],
+      "key_points": [
+        "Gor Mahia beat Mombasa United 3-0 at Nyayo and are now one point behind leaders KCB.",
+        "Reports say ex-Harambee Stars captain Victor Wanyama is set to take over Nairobi City Stars.",
+        "Crystal Palace came from behind to beat 10-man Real Sociedad 2-1 in the Europa League.",
+        "Ghana winger Ibrahim Osman scored twice as Brighton beat Universitatea Craiova, Flashscore reported."
+      ],
+      "content": "<p>Here is the top sports news from the last day, starting at home in Kenya.</p>\n<h2>FKF Premier League: Gor Mahia close the gap on KCB</h2>\n<p>Champions <strong>Gor Mahia</strong> beat bottom side <strong>Mombasa United</strong> 3-0 at Nyayo National Stadium in Nairobi on Thursday night, Mozzart Sport and Eastleigh Voice reported.</p>\n<ul>\n<li>Ghanaian striker <strong>Ebenezer Assifuah</strong> scored first, in the 11th minute.</li>\n<li><strong>Shariff Musa</strong> added two more, in the 30th and 38th minutes, according to Mozzart Sport.</li>\n</ul>\n<p>The win takes coach Charles Akonnor's side to 19 points, one point behind leaders <strong>KCB FC</strong>, and Gor have a game in hand. Gor moved above AFC Leopards into second place.</p>\n<p>KCB stayed top after a big win over <strong>Murang'a Seal</strong>. Eastleigh Voice reported that KCB scored four goals. Mombasa United, who were promoted this season, remain bottom with two points from eight games before Thursday, Mozzart Sport said.</p>\n<h2>Wanyama linked with Nairobi City Stars takeover</h2>\n<p>Former Harambee Stars captain <strong>Victor Wanyama</strong> is set to take over troubled club <strong>Nairobi City Stars</strong>, K24 Digital reported on Friday. The deal has not been officially confirmed.</p>\n<p>City Stars were relegated from the FKF Premier League at the end of the 2024/25 season and now play in the National Super League. K24 said the club did not travel to Homa Bay for a league match against MOFA FC on Tuesday, giving away a walkover. Wanyama and his brother McDonald Mariga are building a football academy in Nambale, Busia County.</p>\n<h2>Europa League: Palace fight back, Bournemouth stay perfect</h2>\n<p><strong>Crystal Palace 2-1 Real Sociedad:</strong> Palace were losing at Selhurst Park after Mamadou Sarr scored for the Spanish side. Then Sociedad's Jon Martin was sent off for a second yellow card. Jean-Philippe Mateta equalised from the penalty spot, and Dwight McNeil scored the winner, Flashscore reported. It was Thomas Frank's first win as Palace manager.</p>\n<p><strong>Celta Vigo 1-2 Bournemouth:</strong> Bournemouth won in Spain despite playing most of the game with ten men, World Today Journal and Flashscore reported. Bournemouth are the only team in the league phase with five wins from five, World Today Journal said.</p>\n<p><strong>Other results:</strong> Sunderland drew 1-1 with Jagiellonia Białystok at the Stadium of Light, while Celtic won 2-1 away at Torreense in Portugal, according to Matrix News, which cited UK media reports.</p>\n<h2>Conference League: Osman stars for Brighton</h2>\n<p><strong>Brighton</strong> beat Romania's <strong>Universitatea Craiova</strong> to stay unbeaten in the Conference League. Ghana winger <strong>Ibrahim Osman</strong> scored twice, according to Flashscore, which said Brighton moved to the top of the table.</p>\n<h2>What's next</h2>\n<p>The next Europa League matchday is on December 10, World Today Journal reported. Back home, FKF Premier League action continues this weekend.</p>",
+      "sources": [
+        {
+          "outlet": "Mozzart Sport",
+          "title": "Gor Mahia pip AFC Leopards to second by piling more misery on Mombasa United",
+          "url": "https://www.mozzartsport.co.ke/football/news/gor-mahia-pip-afc-leopards-to-second-by-piling-more-misery-on-mombasa-united/70965",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "Eastleigh Voice",
+          "title": "Gor Mahia thrash Mombasa United 3-0 as KCB hit four past Murang'a Seal",
+          "url": "https://eastleighvoice.co.ke/football/428613/gor-mahia-thrash-mombasa-united-3-0-as-kcb-hit-four-past-muranga-seal",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "K24 Digital",
+          "title": "Victor Wanyama set to take over troubled Nairobi City Stars in bid to revive fallen club - reports",
+          "url": "https://k24.digital/sports/victor-wanyama-set-to-take-over-troubled-nairobi-city-stars-in-bid-to-revive-fallen-club-reports",
+          "date": "2026-11-27"
+        },
+        {
+          "outlet": "Flashscore",
+          "title": "Crystal Palace come from behind to stun 10-man Real Sociedad in Europa League",
+          "url": "https://flashscore.co.uk/news/crystal-palace-come-from-behind-to-stun-10-man-real-sociedad-in-europa-league/lzWH2Hml",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "World Today Journal",
+          "title": "Europa League Results: Bournemouth Stay Perfect with Win at Celta; Benfica Crushed, Milan Come Back",
+          "url": "https://world-today-journal.com/europa-league-results-bournemouth-stay-perfect-with-win-at-celta-benfica-crushed-milan-come-back/",
+          "date": "2026-11-27"
+        },
+        {
+          "outlet": "Matrix News",
+          "title": "Palace fight back, Sunderland draw and Celtic win in Europa League",
+          "url": "https://web.matrixnews.in/news/3glfzdp5qqbvs/palace-fight-back-sunderland-draw-and-celtic-win-in-europa-league",
+          "date": "2026-11-27"
+        },
+        {
+          "outlet": "Flashscore",
+          "title": "Osman hits brace as Brighton thrash Univ. Craiova to move top of Conference League",
+          "url": "https://www.flashscore.co.uk/news/football-conference-league-osman-hits-brace-as-brighton-thrash-univ-craiova-to-move-top-of-conference-league/xzkAbQhU/",
+          "date": "2026-11-26"
+        }
+      ],
+      "date": "2026-11-27T04:52:21Z",
+      "id": "2026-11-27-sports-roundup-gor-mahia-hit-mombasa-united-for",
+      "image": "images/2026-11-27-sports-roundup-gor-mahia-hit-mombasa-united-for.jpg",
+      "image_alt": "KASS-mtv news graphic: Sports roundup: Gor Mahia hit Mombasa United for three, Palace stun Real Sociedad, Osman shines for Brighton"
+    },
+    {
+      "title": "World roundup: Drone attack in Kuwait kills 2 Italians, Guinea-Bissau delays vote to 2028, Trump says he pressed Putin",
+      "slug": "world-roundup-kuwait-drone-guinea-bissau-trump-putin",
+      "category": "News",
+      "tags": [
+        "Kuwait",
+        "Iran",
+        "Guinea-Bissau",
+        "Russia",
+        "Ukraine"
+      ],
+      "key_points": [
+        "Kuwait and Italy say an Iranian drone attack killed two Italian technicians in Kuwait; Iran denies any role.",
+        "Guinea-Bissau's military rulers moved elections from December 6 to November 2028.",
+        "Trump says he asked Putin to pull back military aggression across Europe and hopes for a quick Ukraine deal.",
+        "The Iran-related crisis keeps shipping in the Strait of Hormuz under threat, which affects fuel prices worldwide."
+      ],
+      "content": "<p>Here are the biggest world stories from the last 24 hours, in simple words.</p>\n<h2>1. Kuwait: drone attack kills two Italian workers</h2>\n<p>Two Italian technicians were killed on Thursday when drones hit a military air-defence station in Kuwait, according to Kuwait's defence ministry and Italy's foreign minister, Antonio Tajani. The two men worked for Rheinmetall Italia, a defence company. Tajani said two other people were injured: a Pakistani national and a Kuwaiti army captain.</p>\n<p>Kuwait and Italy blamed Iran. Iran denied it. Foreign Minister Abbas Araghchi told his Kuwaiti and Italian counterparts that Iran had \"no role or involvement whatsoever\", The New Arab reported. Iran offered a joint investigation. The claims could not be independently confirmed.</p>\n<p>The attack came as the war that began in February between Iran and the US and Israel continues to disrupt the Gulf. ABC News (Australia) reported that two more ships were hit in the Strait of Hormuz on the same day; the UK maritime agency UKMTO said both crews were safe.</p>\n<p><strong>Why it matters:</strong> many Kenyans work in Gulf countries such as Kuwait, Saudi Arabia and the UAE. Trouble around Hormuz also pushes up the cost of fuel and transport, including in Kenya.</p>\n<h2>2. Guinea-Bissau: military rulers delay elections by two years</h2>\n<p>Guinea-Bissau's military government has postponed presidential and parliamentary elections that were due on December 6. The new date is November 26, 2028, according to AP and RTÉ. Al Jazeera also reported the delay.</p>\n<p>The decree was signed by transitional President General Horta Inta-a on Thursday, exactly one year after the army took power. It said the \"technical, material and financial conditions\" for a vote were not in place. The military seized power in November 2025, three days after an election, removing President Umaro Sissoco Embaló before results were announced. The West African bloc ECOWAS had asked for a short transition, Al Jazeera said.</p>\n<p><strong>Why it matters:</strong> it is one more West African country where soldiers are staying in power longer than promised.</p>\n<h2>3. Trump says he asked Putin to \"pull back\" in Europe</h2>\n<p>US President Donald Trump said on Thursday that he asked Russian President Vladimir Putin to pull back military aggression against territories across Europe. They met last week in Shenzhen, China, at the APEC leaders' meeting, Reuters reported.</p>\n<p>Writing on Truth Social, Trump said he hopes Russia and Ukraine can make a deal soon. \"I really believe this is a strong possibility,\" he wrote. He also said the biggest obstacle is the deep dislike between Putin and Ukraine's President Volodymyr Zelensky. There are no formal peace talks at the moment, according to the Reuters report.</p>\n<p>The Kremlin said no decision has been made on whether Putin will attend the G20 summit in Florida on December 14–15.</p>\n<h2>4. EU leaders argue over the next long-term budget</h2>\n<p>European Union leaders met on Thursday to discuss the bloc's budget for 2028 to 2034, worth nearly €1.6 trillion, and money for Ukraine, The Standard (Hong Kong) reported. No final deal was reported.</p>\n<p><strong>Why it matters:</strong> the EU is one of Kenya's biggest trade and aid partners, so its budget choices affect support for Africa.</p>\n<h2>5. US: Thanksgiving storm cuts power on the East Coast</h2>\n<p>A strong storm hit the US East Coast on Thanksgiving Day, with wind gusts of up to 70 mph (112 km/h), The Standard (Hong Kong) reported. Falling trees and power lines left hundreds of thousands of customers without electricity, and flights were disrupted.</p>\n<p><strong>Why it matters:</strong> Kenyans in the US travelling this holiday weekend should check their flight status and local power updates before leaving home.</p>",
+      "sources": [
+        {
+          "outlet": "ABC News (Australia)",
+          "title": "Two Italian workers killed in drone strike on Kuwait, Iran denies involvement",
+          "url": "https://www.abc.net.au/news/2026-11-27/italians-killed-in-kuwait-attack-iran/107432996",
+          "date": "2026-11-27"
+        },
+        {
+          "outlet": "The New Arab",
+          "title": "Iran war: Two Italians killed in drone attack in Kuwait",
+          "url": "https://www.newarab.com/news/iran-war-two-italians-killed-drone-attack-kuwait",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "Associated Press (via WSLS)",
+          "title": "Guinea-Bissau's military junta postpones elections until 2028, extending its rule by two years",
+          "url": "https://www.wsls.com/news/world/2026/11/26/guinea-bissaus-military-junta-postpones-elections-until-2028-extending-its-rule-by-two-years/",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "Al Jazeera",
+          "title": "Guinea-Bissau presidential election delayed by two years",
+          "url": "https://www.aljazeera.com/news/2026/11/26/guinea-bissau-presidential-election-delayed-by-two-years",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "RTÉ",
+          "title": "Guinea-Bissau junta delays presidential election by two years",
+          "url": "https://www.rte.ie/news/2026/1127/1600846-guinea-bissau/",
+          "date": "2026-11-27"
+        },
+        {
+          "outlet": "Reuters (via Daily Maverick)",
+          "title": "Trump says he asked Putin to 'pull back' military aggression throughout Europe",
+          "url": "https://www.dailymaverick.co.za/article/2026-11-27-trump-says-he-asked-putin-to-pull-back-military-aggression-throughout-europe/",
+          "date": "2026-11-27"
+        },
+        {
+          "outlet": "The Standard (Hong Kong)",
+          "title": "Morning Recap - November 27, 2026",
+          "url": "https://www.thestandard.com.hk/news/article/349809/Morning-Recap-November-27-2026",
+          "date": "2026-11-27"
+        }
+      ],
+      "date": "2026-11-27T04:52:21Z",
+      "id": "2026-11-27-world-roundup-drone-attack-in-kuwait-kills-2",
+      "image": "images/2026-11-27-world-roundup-drone-attack-in-kuwait-kills-2.jpg",
+      "image_alt": "KASS-mtv news graphic: World roundup: Drone attack in Kuwait kills 2 Italians, Guinea-Bissau delays vote to 2028, Trump says he pressed Putin"
+    },
+    {
+      "title": "Green card in immigration court? New US ruling says your medical exam must be done before approval",
+      "slug": "green-card-immigration-court-medical-exam-ruling",
+      "category": "Diaspora",
+      "tags": [
+        "Board of Immigration Appeals",
+        "Green card",
+        "Form I-693",
+        "Kenyans in the US",
+        "Edwin Sifuna"
+      ],
+      "key_points": [
+        "The US Board of Immigration Appeals ruled on November 24 that a judge cannot grant a green card on a promise to send the medical exam later.",
+        "The ruling is mainly for people asking for a green card in immigration court, including people in detention.",
+        "Simple step: make sure your completed Form I-693 medical exam is in the file before your hearing.",
+        "Also: Senator Edwin Sifuna's US tour reaches Dallas today and Houston on Sunday."
+      ],
+      "content": "<p>A new decision by a top US immigration body affects Kenyans and other immigrants who are asking for a green card (permanent residence) in immigration court. In short: <strong>the medical exam must be finished and in the file before the judge approves the green card.</strong></p>\n<h2>What was decided</h2>\n<p>The Board of Immigration Appeals (BIA) is the highest immigration appeals body in the US Justice Department. On November 24 it published a decision called <em>Matter of Aguilar Ceballos</em>, according to Immigration Analytics and GSM Global News.</p>\n<p>The Board said an immigration judge may not approve a green card on the condition that the applicant sends the medical exam form (Form I-693) later. Immigration Analytics quoted the Board as saying such a conditional grant is \"improper\".</p>\n<p>The case involved a man from Mexico. In December 2025 a judge gave him a green card and allowed him 60 days to send his medical exam. The government appealed. He did the exam in January 2026, but the Board still sent the case back to the judge so the exam and updated background checks can be properly added to the record.</p>\n<h2>Who it affects</h2>\n<ul>\n<li><strong>Mainly people in immigration court</strong> (removal proceedings) who are asking a judge for a green card. This includes people in detention, who can find it harder to see an approved doctor.</li>\n<li>The decision is binding on immigration judges and on government lawyers in those cases, Immigration Analytics said.</li>\n<li>It does not undo green cards that became final before.</li>\n</ul>\n<p>Some reports, including Mwakilishi, described the ruling as covering every family and job-based green card application. Specialist sources say the ruling itself is about immigration court. For applications filed with USCIS (the agency that handles most green cards), Immigration Analytics notes that USCIS has already required the medical form to be sent together with Form I-485 since December 2, 2024.</p>\n<h2>What you can do now</h2>\n<ul>\n<li>If you have a green card case in immigration court, check with your lawyer that a <strong>completed, signed Form I-693</strong> is in the record before your final hearing.</li>\n<li>Only a USCIS-approved doctor (called a civil surgeon) can do the exam.</li>\n<li>If the exam is not ready, Immigration Analytics says the better step is to ask the judge for a short delay (a continuance), not a conditional approval.</li>\n<li>This is general information, not legal advice. Speak to a licensed immigration lawyer about your own case.</li>\n</ul>\n<h2>Also for Kenyans in the US</h2>\n<p><strong>Sifuna tour in Texas:</strong> Nairobi Senator Edwin Sifuna's Linda Mwananchi tour moves to Texas. According to the schedule published by Capital FM, there is a Thanksgiving dinner in Dallas today, November 27, and a women's meeting and town hall in Houston on Sunday, November 29. The tour then goes to the Seattle area (December 3–4) and California (December 5–7).</p>\n<p><strong>Search in Alabama:</strong> Mwakilishi reported that a 23-year-old Kenyan, John O. Anyiko of Birmingham, went missing on Logan Martin Lake in Talladega County early on Saturday, November 21. As of Wednesday, state and local teams led by the Alabama Law Enforcement Agency were still searching, the outlet said, and no recovery had been announced.</p>",
+      "sources": [
+        {
+          "outlet": "Immigration Analytics",
+          "title": "Form I-693 Rule: BIA Bars Conditional Green Card Grants in Court",
+          "url": "https://immigration-analytics.com/2026/11/25/form-i-693-bia-aguilar-ceballos/",
+          "date": "2026-11-25"
+        },
+        {
+          "outlet": "GSM Global News",
+          "title": "BIA Sets Precedent: A Green Card Cannot Be Granted on a Promise to File the I-693 Medical Exam Later",
+          "url": "https://gsmglobalnews.com/article/d20261125-ncw25a2-bia693.html",
+          "date": "2026-11-25"
+        },
+        {
+          "outlet": "Mwakilishi",
+          "title": "US Board of Immigration Appeals Rules Medical Exams Must Come Before Green Card Approvals, Affecting Kenyan I-485 Applicants",
+          "url": "https://mwakilishi.com/news/2026-11-25/us-board-of-immigration-appeals-rules-medical-exams-must-come-before-green-card",
+          "date": "2026-11-25"
+        },
+        {
+          "outlet": "Capital FM",
+          "title": "Inside Sifuna's US tour: Full schedule, states, and date",
+          "url": "https://capitalfm.africa/inside-sifunas-us-tour-full-schedule-states-and-date/",
+          "date": "2026-11-18"
+        },
+        {
+          "outlet": "Mwakilishi",
+          "title": "Kenyan Man Missing in Alabama Lake as Multi-Agency Search Enters Fifth Day",
+          "url": "https://mwakilishi.com/news/2026-11-25/kenyan-man-missing-in-alabama-lake-as-multi-agency-search-enters-fifth-day",
+          "date": "2026-11-25"
+        }
+      ],
+      "date": "2026-11-27T04:52:21Z",
+      "id": "2026-11-27-green-card-in-immigration-court-new-us-ruling",
+      "image": "images/2026-11-27-green-card-in-immigration-court-new-us-ruling.jpg",
+      "image_alt": "KASS-mtv news graphic: Green card in immigration court? New US ruling says your medical exam must be done before approval"
+    },
+    {
+      "title": "High Court says government broke the Constitution over US-backed Ebola centre in Laikipia, orders deals made public",
+      "slug": "high-court-us-backed-ebola-centre-laikipia-ruling",
+      "category": "Politics",
+      "tags": [
+        "High Court",
+        "Laikipia",
+        "Ebola",
+        "Katiba Institute",
+        "Eugene Wamalwa"
+      ],
+      "key_points": [
+        "The High Court ruled on Thursday that the government did not involve or inform Laikipia residents about a US-backed Ebola quarantine centre.",
+        "The Ministry of Health has 45 days to make the agreements and assessments public.",
+        "No more building or use of the centre at Laikipia Air Base until the court is satisfied.",
+        "Also: DAP-K leader Eugene Wamalwa drops Governor George Natembeya and Ayub Savula as deputy party leaders."
+      ],
+      "content": "<p>The High Court in Kenya has ruled that the government broke the Constitution when it allowed a US-backed Ebola quarantine centre to be set up in Laikipia County without involving local people. The judgment was delivered on Thursday, November 26.</p>\n<h2>What the court decided</h2>\n<p>The court found that the government did not properly inform residents or let them take part in decisions about the centre at Laikipia Air Base, a military base. The Star reported that the judge said this went against Article 10 of the Constitution (national values, including public participation) and Article 35 (the right to information).</p>\n<p>The court gave two main orders, according to The Star and the Associated Press (AP):</p>\n<ul>\n<li><strong>45 days:</strong> the Ministry of Health must make the documents public. The Star says these include the agreements, health and environment assessments, approvals and operating rules. AP says the government must disclose all agreements with the United States.</li>\n<li><strong>Work stops:</strong> no more construction or use of the centre until the court confirms the government has obeyed.</li>\n</ul>\n<p>\"Constitutional accountability is not satisfied by asking citizens to trust that all is well,\" the judge said, as quoted by The Star.</p>\n<p>The Star reported that the judge made clear the case was not against Kenya's cooperation with the US, or against the Health Ministry's role. It was about how the decision was made. (The Star and AP gave different names for the judge, so we have left the name out.)</p>\n<h2>Who went to court, and why</h2>\n<p>The case was brought by the Katiba Institute, a constitutional rights group. AP says the Law Society of Kenya (LSK) was also a petitioner. The petitioners argued that the centre put the rights to life, health and information at risk, and that Kenya's health system was not ready for an Ebola outbreak.</p>\n<p>AP reported that the centre has 50 beds, and that it led to deadly protests by residents who feared they could be exposed to the disease. In May, the High Court had already ordered a halt to construction while the case was heard.</p>\n<h2>The US link</h2>\n<p>According to AP, officials in the Trump administration had said Americans exposed to Ebola abroad would be sent to the centre. The US also planned to give Kenya $13.5 million to prepare for Ebola.</p>\n<p>AP said Kenya recorded its first Ebola case in October, in a Kenyan who had travelled from Congo through Uganda. Kenya has since recorded nine cases, all close contacts of the first patient, AP said.</p>\n<p>The government had not given a public reply to the ruling in the reports we saw. In October, Health Cabinet Secretary Aden Duale said the government was waiting for the court's direction on the centre, AP reported.</p>\n<h2>Also in Kenya politics: shake-up in DAP-K</h2>\n<p><strong>Eugene Wamalwa</strong>, leader of the Democratic Action Party of Kenya (DAP-K), announced on Thursday that Trans Nzoia Governor <strong>George Natembeya</strong> and Kakamega Deputy Governor <strong>Ayub Savula</strong> are no longer the party's deputy leaders, Citizen Digital and The Standard reported.</p>\n<p>Mumias East MP <strong>Peter Salasya</strong> and former Cabinet minister <strong>Kipruto arap Kirwa</strong> are set to take the posts. Nairobi Wire reported that the party's National Executive Council still has to approve the change next week.</p>\n<p>Natembeya has been working with Nairobi Senator Edwin Sifuna's Linda Mwananchi movement, which named him to head its presidential campaign. Savula joined President William Ruto's UDA party earlier this year, The Standard reported. Wamalwa said the changes are meant to strengthen DAP-K before the August 2027 General Election, and he denied any personal fallout with Natembeya.</p>",
+      "sources": [
+        {
+          "outlet": "The Star",
+          "title": "Court: Laikipia residents kept in the dark over Ebola facility",
+          "url": "https://www.the-star.co.ke/news/2026-11-26-court-laikipia-residents-kept-in-the-dark-over-ebola-facility",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "Associated Press (via WSLS)",
+          "title": "US-backed Ebola quarantine center violated constitution, Kenyan court rules",
+          "url": "https://www.wsls.com/health/2026/11/26/us-backed-ebola-quarantine-center-violated-constitution-kenyan-court-rules/",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "Citizen Digital",
+          "title": "Natembeya, Savula removed as DAP-K deputy party leaders",
+          "url": "https://citizen.digital/article/natembeya-savula-removed-as-dap-k-deputy-party-leaders-n394600",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "The Standard",
+          "title": "Wamalwa ousts Natembeya, Savula as DAP-K deputy leaders",
+          "url": "https://www.standardmedia.co.ke/article/2001563129/wamalwa-ousts-natembeya-savula-as-dap-k-deputy-leaders",
+          "date": "2026-11-26"
+        },
+        {
+          "outlet": "Nairobi Wire",
+          "title": "Wamalwa Picks Peter Salasya for Key DAP-K Leadership Position",
+          "url": "https://nairobiwire.com/2026/11/peter-salasya-dap-k-deputy-party-leader.html",
+          "date": "2026-11-27"
+        }
+      ],
+      "date": "2026-11-27T04:52:21Z",
+      "id": "2026-11-27-high-court-says-government-broke-the-constitution-over",
+      "image": "images/2026-11-27-high-court-says-government-broke-the-constitution-over.jpg",
+      "image_alt": "KASS-mtv news graphic: High Court says government broke the Constitution over US-backed Ebola centre in Laikipia, orders deals made public"
+    },
+    {
       "title": "Sports roundup: FKF signs KSh54m Red Cross deal, Liverpool win in Bruges, Bayern and PSG stumble",
       "slug": "sports-roundup-fkf-red-cross-liverpool-bayern-psg",
       "category": "Sports",
@@ -1130,5 +1374,5 @@
       "image_alt": "KASS-mtv news graphic: Ruto starts 8-day Western Kenya tour as poll shows Sifuna ahead in the region"
     }
   ],
-  "updated": "2026-11-26T04:52:03Z"
+  "updated": "2026-11-27T04:52:21Z"
 }
